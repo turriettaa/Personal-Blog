@@ -31,22 +31,6 @@ A simple two-page blog application allowing users to create and view blog posts.
 
 Alternatively, visit the live site at: [turriettaa.github.io/Personal-Blog](https://turriettaa.github.io/Personal-Blog).
 
-## Project Structure
-personal-blog-app/
-├── assets/
-│ ├── css/
-│ │ ├── styles.css
-│ │ ├── form.css
-│ │ └── blog.css
-│ └── js/
-│ ├── form.js
-│ ├── blog.js
-│ └── logic.js
-├── index.html
-├── blog.html
-└── README.md
-
-
 ## Future Enhancements
 
 - Post editing and deletion
