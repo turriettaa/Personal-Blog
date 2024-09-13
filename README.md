@@ -31,6 +31,8 @@ A simple two-page blog application allowing users to create and view blog posts.
 
 Alternatively, visit the live site at: [turriettaa.github.io/Personal-Blog](https://turriettaa.github.io/Personal-Blog).
 
+<img src="Screenshot 2024-09-13 143250.png" alt="Site Screenshot">
+
 ## Future Enhancements
 
 - Post editing and deletion
