@@ -40,6 +40,10 @@ Alternatively, visit the live site at: [turriettaa.github.io/Personal-Blog](http
 - Categories/tags for posts
 - Search functionality
 
+## Acknowledgments
+
+- Assisted by Amazon Q
+  
 ## Contributing
 
 For major changes, please open an issue first to discuss what you would like to change.
