@@ -50,6 +50,6 @@ For major changes, please open an issue first to discuss what you would like to 
 
 ## Contact
 
-Your Name - turriettaa@gmail.com
+Email- turriettaa@gmail.com
 
 Project Link: https://github.com/turriettaa/Personal-Blog
